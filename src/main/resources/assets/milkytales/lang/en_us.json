@@ -1,0 +1,9 @@
+{
+  "item.milkytales.soulstone": "Soulstone",
+  "item.milkytales.raw_soulstone": "Raw Soulstone",
+
+  "block.milkytales.raw_soulstone_block" : "Soulstone Ore",
+  "block.milkytales.soulstone_block" : "Soulstone Cube",
+
+  "creativetab.milkytales_tab": "Milky Tales Minerals"
+}
