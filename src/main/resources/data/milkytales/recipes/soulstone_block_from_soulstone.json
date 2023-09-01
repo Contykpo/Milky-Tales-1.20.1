@@ -1,0 +1,21 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "category" : "misc",
+  "pattern" :
+  [
+    "###",
+    "###",
+    "###"
+  ],
+  "key" :
+  {
+    "#" :
+    {
+      "item" : "milkytales:soulstone"
+    }
+  },
+  "result" :
+  {
+    "item" : "milkytales:soulstone_block"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type" : "minecraft:blasting",
+  "category" : "misc",
+  "cookingtime" : 100,
+  "experience" : 0.7,
+  "group" : "soulstone",
+  "ingredient" :
+  {
+    "item" : "milkytales:raw_soulstone"
+  },
+  "result" : "milkytales:soulstone"
+}
